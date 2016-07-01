@@ -59,6 +59,25 @@
   }
 }
 
+.nav_icons li{
+  display: inline;
+  margin-right: 10px;
+}
+
+.nav_icons li img {
+  height: 24px;
+  width: 24px;
+  opacity: 0.2;
+  filter: alpha(opacity=20); /* For IE8 and earlier */
+}
+
+.nav_icons li img:hover {
+  height: 24px;
+  width: 24px;
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
 .nav-links-trigger {
   @include border-box;
   background: none;
