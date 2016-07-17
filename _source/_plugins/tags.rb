@@ -13,18 +13,18 @@ module Jekyll
     end
 
     def render(context)
-      %|<img src="/assets/images/icons/#{@icons}.#{@filetype}" retina="/assets/images/icons/#{@icons}@2x.#{@filetype}">|
+      %|<img src="/assets/images/icons/#{@icons}.#{@filetype}" class="icon">|
     end
 
     Liquid::Template.register_tag "icons", self
   end
 
-  class MakesTag < Liquid::Tag
-    def initialize(tag_name, makes, tokens)
+  class SharesTag < Liquid::Tag
+    def initialize(tag_name, shares, tokens)
       super
-      arguments = makes.split(",")
+      arguments = shares.split(",")
       @path     = arguments[0].strip
-      @makes  = arguments[1].strip
+      @shares  = arguments[1].strip
 
       if arguments.size > 2
         @filetype = arguments[2].strip
@@ -34,10 +34,10 @@ module Jekyll
     end
 
     def render(context)
-      %|<img src="/assets/images/makes/#{@path}/#{@makes}.#{@filetype}" retina="/assets/images/makes/#{@path}/#{@makes}@2x.#{@filetype}">|
+      %|<img src="/assets/images/shares/#{@path}/#{@shares}.#{@filetype}">|
     end
 
-    Liquid::Template.register_tag "makes", self
+    Liquid::Template.register_tag "shares", self
   end
 
   class ProjectTag < Liquid::Tag
@@ -55,7 +55,7 @@ module Jekyll
     end
 
     def render(context)
-      %|<img src="/assets/images/projects/#{@path}/#{@project}.#{@filetype}" retina="/assets/images/projects/#{@path}/#{@project}@2x.#{@filetype}">|
+      %|<img src="/assets/images/projects/#{@path}/#{@project}.#{@filetype}">|
     end
 
     Liquid::Template.register_tag "project", self
