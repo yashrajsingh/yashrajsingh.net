@@ -8,15 +8,17 @@
 
 .col1 { width: 90px; }
 .col2 { width: 200px; }
-.col3 { width: 310px; }
-.col4 { width: 420px; }
-.col5 { width: 530px; }
+.col3 { width: 250px; }
+.col4 { width: 310px; }
+.col5 { width: 420px; }
+.col6 { width: 530px; }
 
 .col1 img { max-width: 90px; z-index: 4; }
-.col2 img { max-width: 200px; z-index: 4; }
-.col3 img { max-width: 310px; z-index: 4; }
-.col4 img { max-width: 420px; z-index: 4; }
-.col5 img { max-width: 530px; z-index: 4; }
+.col2 img { max-width: 250px; z-index: 4; }
+.col3 img { max-width: 200px; z-index: 4; }
+.col4 img { max-width: 310px; z-index: 4; }
+.col5 img { max-width: 420px; z-index: 4; }
+.col6 img { max-width: 530px; z-index: 4; }
 
 /* clearfix */
 .grid:after {
@@ -49,8 +51,6 @@
     transition: all .3s ease-out;
     background-color: #3f4642;
     color: #fff;
-    font-family: 'berthold_akzidenz_grotesk_be_regular-webfont';
-    src: url(berthold_akzidenz_grotesk_be_regular-webfont.ttf);
     font-size: .8em;
     letter-spacing: .1em;
     line-height: 1.7em;

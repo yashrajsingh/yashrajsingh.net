@@ -14,11 +14,6 @@ type: web, desktop
   ————————————————————————————————————— ★
 {% endcomment %}
 
-<div class="project spacing-one width-four">
-    {% project projectyello/v1, cover, png %}
-</div>
-
-
 <div class="project project-logo project-logo-help clear-left width-one">
     {% project projectyello/v1, logo1, png  %}
 </div>

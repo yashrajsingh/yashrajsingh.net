@@ -49,15 +49,15 @@ type: web
   <p>It was pretty clear to represent the application with what it stands for. An Equilibrium.</p>
 </div>
 
-<div class="project project-logo clear-left width-one">
+<div class="project project-logo-tech clear-left spacing-one width-one">
   {% icons app_engine, png %}
 </div>
 
-<div class="project project-logo width-one">
+<div class="project project-logo-tech width-one">
   {% icons python, png %}
 </div>
 
-<div class="project-description clear-left width-four">
+<div class="project-description clear-left spacing-one width-four">
   <h3>Google App Engine with Python</h3>
   <p>Equilibrium is build on Google App engine with Python, also utilizing (Google+, Wikipedia, Google Custom Search, Google Maps) API's for various functions. Each Project Card having different colors depending on its urgency. With a time-down clock running in the card to deﬁne its deadline time. That's where the magic happens. These cards, are an easy way of organizing various projects, and the snappiest way to equalize your work. Designed responsively, users can utilize the app in Mobile, Tablet, Laptop, Desktop and they will be greeted with a nice responsive design. Build upon Twitter Bootstrap, Flask, jinja2, webapp2.</p>
 </div>

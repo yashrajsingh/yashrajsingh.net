@@ -12,7 +12,7 @@ do_not_show_details: true
 
 <div class="project project-phone clear-left width-one">
 <a href="http://hackerthedude.blogspot.in/" target="_blank">
-  {% project hackerthedude, ss_mobile, png %}
+  {% project hackerthedude, ss_mobile1, png %}
 </a>
 </div>
 
@@ -23,7 +23,7 @@ do_not_show_details: true
 
 <div class="project project-website project-svn fit-right width-three">
 	<a href="http://hackerthedude.blogspot.in/" target="_blank">
-	  {% project hackerthedude, ss, png %}
+	  {% project hackerthedude, ss1, png %}
 	</a>
 </div>
 

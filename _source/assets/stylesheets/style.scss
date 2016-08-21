@@ -33,7 +33,7 @@ a {
   padding: .2rem;
   text-decoration: none;
 
-  &:link { text-decoration: none; color: #a29d91; }
+  &:link { text-decoration: none; color: $color-link; }
   &:visited { color: $color-link-visited; }
   &:hover { color: $color-link-hover; text-decoration: none; }
   &:active { color: black;  }

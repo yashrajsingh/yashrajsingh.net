@@ -3,7 +3,7 @@
 
 .nav {
   @include border-box;
-  background-color: #ffea00;
+  background-color: $color-link;
   font-family: $font-alto;
   margin-bottom: 1em;
   left: 0;
@@ -15,14 +15,14 @@
 }
 
 .nav-home {
-  color: black;
+  color: $nav-text-color;
   display: inline-block;
   font-weight: bold;
 
   &:visited,
   &:hover,
   &:active {
-    color: black;
+    color: $nav-text-color;
   }
 
   &:hover { text-decoration: underline; }
@@ -36,15 +36,15 @@
 
   a {
     @include border-box;
-    background-color: rgb(216, 182, 18);
+    background-color: $color-link-hover;
     display: block;
     padding: .5em 1.25em;
     margin: 0;
 
     &:link,
-    &:visited { color: black; }
+    &:visited { color: $nav-text-color; }
 
-    &:hover { background-color: #ffea00; }
+    &:hover { background-color: $color-link; }
   }
 
   li {
@@ -82,7 +82,7 @@
   @include border-box;
   background: none;
   border: none;
-  color: black;
+  color: $nav-text-color;
   display: block;
   font-family: $font-sans;
   font-size: 1em;
@@ -103,7 +103,7 @@
 
 .nav-links-expanded {
 
-  .nav-links-trigger { background-color: rgb(216, 182, 18); }
+  .nav-links-trigger { background-color: $color-link-hover; }
 
   .nav-links-list { display: block; }
 }
