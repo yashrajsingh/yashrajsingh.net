@@ -10,14 +10,14 @@ type: web
 ---
 
 <div class="project project-poster clear-left spacing-two width-three">
-  <a href="https://basecamp.com/1679267/announcements/27" target="_blank">
+  <a href="http://www.google.com/events/gcdc2013" target="_blank">
     {% project equilibrium, gcdc_baner, png %}
   </a>
 </div>
 
 <div class="project-description clear-left width-three">
   <h3><a href="https://gcdc2013-equilibrium.appspot.com" target="_blank">Equilibrium - gcdc2013</a></h3>
-  <p>In 2013, I participated in <a href="http://www.google.co.in/events/gcdc2013" target="_blank">Google Cloud Developers Challenge 2013</a> and was selected as the <a href="http://www.google.co.in/events/gcdc2013/finalists.html" target="_blank">internation finalist</a> in the competition. I build an application for managing projects deadlines within a company. I called it Equilibrium. I won 1000$, Nexus Tablet and other goodies from Google(Yay! Score).</p>
+  <p>In 2013, I participated in <a href="http://www.google.com/events/gcdc2013" target="_blank">Google Cloud Developers Challenge 2013</a> and was selected as the <a href="http://www.google.com/events/gcdc2013/finalists.html" target="_blank">internation finalist</a> in the competition. I build an application for managing projects deadlines within a company. I called it Equilibrium. I won 1000$, Nexus Tablet and other goodies from Google(Yay! Score).</p>
 </div>
 
 <div class="project project-website fit-right width-two">
@@ -26,7 +26,16 @@ type: web
   </a>
 </div>
 
-<div class="project project-website fit-right spacing-three width-two">
+<div class="project spacing-two width-one center">
+    <a href="http://www.google.com/events/gcdc2013" target="_blank">
+      {% icons trophy, png %}
+      <small class="portfolio-copyright">
+        International finalist in GCDC 2013 By Google.
+      </small>
+    </a>
+</div>
+
+<div class="project project-website fit-right width-two">
   <a href="https://gcdc2013-equilibrium.appspot.com" target="_blank">
     {% project equilibrium, ss2, jpg %}
   </a>

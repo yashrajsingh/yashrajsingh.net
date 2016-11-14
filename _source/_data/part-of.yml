@@ -1,10 +1,14 @@
-- name: hackIndia
+- name: 10K Apart Challenge
+  url: https://a-k-apart.com/
+  info: 2016, i won 'Best Technical' prize.
+
+- name: HackIndia
   url: https://hackindia.io/
   info: 2015 in Bangalore.
 
 - name: GopherConIndia
   url: http://www.gophercon.in/
-  info: i was one of the only 3 GopherConIndia 2015 scholars.
+  info: 2015, i was one of the only 3 GopherConIndia 2015 scholars.
 
 - name: Google Cloud Developers Challenge 2013
   url: http://www.google.co.in/events/gcdc2013/finalists.html

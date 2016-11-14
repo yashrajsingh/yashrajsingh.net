@@ -9,7 +9,7 @@ image: /assets/images/projects/tellmeweathernow/thumb.png
 do_not_show_details: true
 ---
 
-<div class="project project-phone clear-left spacing-one width-one">
+<div class="project project-phone clear-left width-one">
   <a href="http://tellmeweathernow.appspot.com/" target="_blank">
     {% project tellmeweathernow, ss_mobile, png %}
   </a>
@@ -19,6 +19,15 @@ do_not_show_details: true
   <a href="http://tellmeweathernow.appspot.com/" target="_blank">
     {% project tellmeweathernow, ss, png %}
   </a>
+</div>
+
+<div class="project width-one center">
+    <a href="http://www.gophercon.in/2015/scholarship/" target="_blank">
+      {% icons trophy, png %}
+      <small class="portfolio-copyright">
+        Won scholarship for GopherConIndia 2015.
+      </small>
+    </a>
 </div>
 
 <div class="project-description width-three">
