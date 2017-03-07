@@ -6,14 +6,14 @@ class: writes
 <section class="writes-essays">
 
   <section class="writes-introduction">
-    {% if site.categories.writes | size >= 0 %}
+    {% if site.categories.writes %}
       <h1>essays</h1>
     {% else %}
       <h1 style="font-size: 20px;">i'll write them soon .. <br/>But thanks for looking :)</h1>
     {% endif %}
   </section>
 
-  {% if site.categories.writes | size >= 0 %}
+  {% if site.categories.writes %}
     <ul class="writes-essays-list" data-essays>
       {% for essay in site.categories.writes %}
         <li class="writes-essay"{% if essay.favorite %} data-favorite{% endif %} data-words="{{ essay.content | number_of_words }}" data-date="{{ forloop.index }}">

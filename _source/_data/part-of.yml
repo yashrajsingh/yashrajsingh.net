@@ -1,6 +1,10 @@
+- name: GopherConIndia
+  url: http://www.gophercon.in/
+  info: 2017, attended.
+
 - name: 10K Apart Challenge
   url: https://a-k-apart.com/
-  info: 2016, i won 'Best Technical' prize.
+  info: 2016, I won 'Best Technical' prize.
 
 - name: HackIndia
   url: https://hackindia.io/
@@ -8,7 +12,11 @@
 
 - name: GopherConIndia
   url: http://www.gophercon.in/
-  info: 2015, i was one of the only 3 GopherConIndia 2015 scholars.
+  info: 2015, I was one of the only 3 GopherConIndia 2015 scholars.
+
+- name: MoodIndigo
+  url: https://moodi.org/
+  info: 2013, in IIT Bombay.
 
 - name: Google Cloud Developers Challenge 2013
   url: http://www.google.co.in/events/gcdc2013/finalists.html
@@ -16,4 +24,4 @@
 
 - name: RockStarOfDesign
   url: http://rockstarofdesign.net/submissions/yash-raj-singh/
-  info: a web designing contest.
+  info: finalist in national web designing contest.
