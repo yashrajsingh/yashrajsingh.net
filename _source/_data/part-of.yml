@@ -1,3 +1,7 @@
+- name: An Event Apart, Seattle
+  url: https://aneventapart.com/
+  info: 2017, I was invited after wining 10K Apart Challenge Internationaly.
+
 - name: GopherConIndia
   url: http://www.gophercon.in/
   info: 2017, attended.
@@ -8,7 +12,7 @@
 
 - name: HackIndia
   url: https://hackindia.io/
-  info: 2015 in Bangalore.
+  info: 2015, in Bangalore.
 
 - name: GopherConIndia
   url: http://www.gophercon.in/
@@ -18,9 +22,9 @@
   url: https://moodi.org/
   info: 2013, in IIT Bombay.
 
-- name: Google Cloud Developers Challenge 2013
+- name: Google Cloud Developers Challenge
   url: http://www.google.co.in/events/gcdc2013/finalists.html
-  info: i won 1000$ and was a International finalist.
+  info: 2013, I won 1000$ and was a International finalist.
 
 - name: RockStarOfDesign
   url: http://rockstarofdesign.net/submissions/yash-raj-singh/
