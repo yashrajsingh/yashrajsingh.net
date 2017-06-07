@@ -20,7 +20,7 @@ at the end of the 3rd Year of B.Tech i also did.
 
 ![image](/assets/images/shares/internship/tumblr_inline_nu4zsfqsX81sa1q7i_540.png)
 
-In 2015, i attended 
+In 2015, i attended
 \#[**GopherConIndia**](http://www.gophercon.in/) conference, Bangalore where i met
 alot of techies & awesome people. Where there was this one startup, that
 at that time were working on a exciting new technology which involved
@@ -32,7 +32,7 @@ So i got an internship for 6 weeks at
 **[RainingClouds](http://rainingclouds.com/)/[BetaCraft](http://betacraft.co/)**
 Pune from June to July of 2015.
 
-![image](/assets/images/shares/internship/tumblr_inline_nu5u1oLqMK1sa1q7i_540.jpg)
+![Yash Raj Singh at BetaCraft, Internship](/assets/images/shares/internship/tumblr_inline_nu5u1oLqMK1sa1q7i_540.jpg)
 
 This picture here people, depicts the whole team of RainingClouds. 
 
@@ -83,13 +83,13 @@ muah.
 
 Some pictures.
 
-![image](/assets/images/shares/internship/tumblr_inline_nu6jwhryrR1sa1q7i_540.jpg)
+![Yash Raj Singh at BetaCraft, Internship](/assets/images/shares/internship/tumblr_inline_nu6jwhryrR1sa1q7i_540.jpg)
 
 ![image](/assets/images/shares/internship/tumblr_inline_nu6jwyai951sa1q7i_540.jpg)
 
 ![image](/assets/images/shares/internship/tumblr_inline_nu6jxjZs3S1sa1q7i_540.jpg)
 
-![image](/assets/images/shares/internship/tumblr_inline_nu6lg83xYp1sa1q7i_540.jpg)
+![Yash Raj Singh at BetaCraft, Internship](/assets/images/shares/internship/tumblr_inline_nu6lg83xYp1sa1q7i_540.jpg)
 
 ![image](/assets/images/shares/internship/tumblr_inline_nu6lixMZnX1sa1q7i_540.jpg)
 
@@ -110,4 +110,3 @@ team on a great mission.
 Here is my [**Training Presentation**](https://drive.google.com/file/d/0B19RfWY3tagHX3hTcmw3VmZSQTQ/view?usp=sharing).
 
 Tadaa.
-

@@ -6,12 +6,20 @@ javascript:
 - imagesloaded.pkgd.min
 ---
 
+<section class="writes-introduction">
+	<h1 style="margin-bottom:10px;">Hi!<br><br>I'm Yash Raj Singh</h1>
+  <article class="about-biography-long">
+    <p>A developer, designer from India. Here is some of my work.</p>
+  </article>
+</section>
+
+
 <center>
 <section id="index">
   	<div class="grid">
 		{% for project in site.categories.projects %}
 		    <a href="{{ project.url }}" class="grid-item box col2" data-words="{{ project.content | number_of_words }}" data-date="{{ forloop.index }}">
-				<img src="{{ project.image }}">
+				<img src="{{ project.image }}" alt="{{ project.preview }}" title="{{ project.title }} by {{ site.author }}">
 				<div class="info" style="{% if project.do_not_show_details %}display:none;{% endif %}">
 		          	<hgroup>
 			            <p>{{ project.title }}</p>
@@ -26,6 +34,10 @@ javascript:
 	</div>
 </section>
 </center>
+
+<section class="portfolio-copyright align-rights width-two" style="margin-top:0">
+  <p>Everything here by Yash Raj Singh 2014-17</p>
+</section>
 
 <script type="text/javascript">
 	var $container = $('.content');

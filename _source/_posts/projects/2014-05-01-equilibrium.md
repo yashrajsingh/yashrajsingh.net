@@ -72,7 +72,7 @@ type: web
 </div>
 
 <div class="project project-video clear-left spacing-two" style="margin-top: 90px;">
-  <iframe width="260" height="150" src="https://www.youtube.com/embed/4xJ2moFagb4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="260" height="150" src="https://www.youtube.com/embed/4xJ2moFagb4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen title="Yash Raj Singh in Google Cloud Developers Challenge 2013"></iframe>
 </div>
 
 <div class="project-description width-three">
@@ -81,9 +81,9 @@ type: web
 </div>
 
 <div class="project project-video width-one">
-  <iframe width="260" height="150" src="https://www.youtube.com/embed/W64ujd2igIs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="260" height="150" src="https://www.youtube.com/embed/W64ujd2igIs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen title="Yash Raj Singh in Google Cloud Developers Challenge 2013"></iframe>
 </div>
 
 <div class="project project-video clear-left spacing-two width-one" style="margin-bottom: 90px;">
-  <iframe width="260" height="150" src="https://www.youtube.com/embed/gbGqs9zStoQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="260" height="150" src="https://www.youtube.com/embed/gbGqs9zStoQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen title="Yash Raj Singh in Google Cloud Developers Challenge 2013"></iframe>
 </div>
